@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_my_app">Welcome to my App!</string>
+    <string name="weather">Weather</string>
+    <string name="weather_view">Weather View</string>
+    <string name="todo">TODO</string>
+    <string name="about_me">About me</string>
+    <string name="investment_portfolio">Investment Portfolio</string>
+    <string name="investment">Investment</string>
+    <string name="facts">About Me</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="i_was_born_in_lowell">I was born in Lowell.</string>
+    <string name="i_currently_still_live_in_lowell">I currently still live in Lowell.</string>
+    <string name="my_significant_other_grew_up_in_florida">My significant other grew up in Florida.</string>
+    <string name="i_enjoy_playing_games_and_listening_to_music_on_my_freetime">I enjoy playing games and listening to music on my freetime.</string>
+    <string name="i_would_like_to_continue_living_in_lowell_but_i_want_to_travel_the_world">I would like to continue living in Lowell but I want to travel the world.</string>
+    <string name="resume">Resume</string>
+</resources>
